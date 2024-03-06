@@ -29,7 +29,7 @@ public class ClasseCalculoSoma {
 
 		}
 
-		System.out.println("\n\nResultado: " + resultado);
+		System.out.println("\n\nResultado da soma: " + resultado);
 
 	}
 
